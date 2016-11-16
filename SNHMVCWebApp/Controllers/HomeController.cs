@@ -15,7 +15,7 @@ namespace SNHMVCWebApp.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "SNHIntegration Home Page";
+            ViewBag.Message = "SNHIntegration Homest Page";
 
             return View();
         }

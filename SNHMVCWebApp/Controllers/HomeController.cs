@@ -22,7 +22,7 @@ namespace SNHMVCWebApp.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Contact SNH!";
+            ViewBag.Message = "Contact SNHIntegration!";
 
             return View();
         }
